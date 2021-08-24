@@ -1,9 +1,21 @@
 # 2021 상반기 서담프로젝트
-## 1탄 서담어워드
-## 2탄 이슈체크
+- 1탄 서담어워드
+- 2탄 이슈체크
 
+## 파일 설명
+ssodam2021_tokenized.ipynb
+- 게시물데이터 토큰화 진행
 
-### Participants
+ssodam2021_Find_Specific_Topics.ipynb
+- 일별/월별 키워드 순위 정의 및 상위 키워드 도출
+
+ssodam2021_awards.ipynb
+- 1탄 어워드
+
+topic_more.ipynb
+- 이슈별 키워드 그룹화 및 추이 탐색
+
+## Participants
 
 INSIGHT 5기 __고은지__
 - 1탄 어워드 총괄 (게시글 순위 & 워드클라우드 생성)
