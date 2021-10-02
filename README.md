@@ -17,7 +17,7 @@ topic_more.ipynb
 
 ## Participants
 
-INSIGHT 5기 __고은지__
+INSIGHT 5기 __고은지__ (_changeung729@gmail.com_)
 - 1탄 어워드 총괄 (게시글 순위 & 워드클라우드 생성)
 - 2탄 결과물 시각화 함수 작성
 
